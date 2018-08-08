@@ -854,9 +854,8 @@ font-size: 6rem;
 }
 
 .single_pakeg_text ul li{
-    background: url(../images/pkli.png) no-repeat left center;
-    padding: 15px 0px 15px 60px;
-    margin-top: 20px;
+    padding: 2px 0px 1px 20px;
+    margin-top: 10px;
 	
 }
 
